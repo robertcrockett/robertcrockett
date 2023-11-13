@@ -2,7 +2,7 @@
 
 ![](profile-3d-contrib/profile-night-rainbow.svg)
 
-<a href="https://github.com/robertcrockett"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=robertcrockett&theme=tokyonight&title_color=ff3068?"></a>
+<a href="https://github.com/robertcrockett"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=robertcrockett&theme=tokyonight&show_icons=true&title_color=ff3068?"></a>
 
 <!--
 **robertcrockett/robertcrockett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
